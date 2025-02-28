@@ -39,3 +39,4 @@ Based on the TA-Lib method and Twitter roBERTa method to analysis the data, then
 Results summarize and demonstrate as few charts and tables(see them in the img folder).
 
 
+![comparision_table](https://github.com/user-attachments/assets/47ac9b38-a561-4090-bddc-492af6762a2f)
